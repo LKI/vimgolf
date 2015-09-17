@@ -33,6 +33,13 @@ This challenge is just a simple movement and entering text at a certain place.
 ```
 
 
+# Launch Command:
+
+```
+vimgolf put 55b18bbea9c2c30d04000001
+```
+
+
 # Trys:
 
 ```

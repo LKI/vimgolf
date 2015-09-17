@@ -12,6 +12,13 @@ The quick lazy dog jumps over the brown fox.
 ```
 
 
+# Launch Command:
+
+```
+vimgolf put 55bcdc3ef4219f456102374f
+```
+
+
 # Trys:
 
 ```
